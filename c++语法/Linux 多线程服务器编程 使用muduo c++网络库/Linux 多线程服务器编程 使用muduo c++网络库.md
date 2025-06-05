@@ -9,4 +9,5 @@
 
 ## 第二章 线程同步精要
 
+- 并发编程两种基本模型：message passing、shared memory
 - 
